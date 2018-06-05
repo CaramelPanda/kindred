@@ -1,0 +1,9 @@
+{
+  "name": "kin-bot",
+  "version": "0.0.0",
+  "description": "KinBot",
+  "main": "app.js",
+  "author": {
+    "name": "Owner"
+  }
+}

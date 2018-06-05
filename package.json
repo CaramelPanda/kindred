@@ -1,9 +1,16 @@
-{
+t{
   "name": "kin-bot",
   "version": "0.0.0",
-  "description": "KinBot",
-  "main": "app.js",
-  "author": {
+  "description": "Discord bots",
+  "scripts": {
+  "start": "node kindred.bat"
+  },
+  "main": "kindred.bat",
+  "author":{
     "name": "Owner"
   }
 }
+
+
+
+
